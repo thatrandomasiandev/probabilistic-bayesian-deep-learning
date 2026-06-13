@@ -1,0 +1,16 @@
+seed: 42
+seeds: [42, 43, 44]
+epochs: 40
+batch_size: 128
+lr: 0.001
+hidden_dim: 64
+n_hidden: 2
+dropout: 0.1
+n_samples: 3000
+n_features: 10
+noise_base: 0.3
+heteroscedastic_strength: 1.0
+n_mc_samples: 25
+n_members: 5
+alpha: 0.1
+alphas: [0.05, 0.1, 0.2]

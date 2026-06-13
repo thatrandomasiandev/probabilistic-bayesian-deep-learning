@@ -1,0 +1,8 @@
+seeds: [42, 43]
+methods: ["mc_dropout", "deep_ensemble"]
+heteroscedastic_levels: [0.5, 1.0, 2.0]
+n_samples: 3000
+epochs: 35
+n_mc_samples: 20
+n_members: 4
+alpha: 0.1

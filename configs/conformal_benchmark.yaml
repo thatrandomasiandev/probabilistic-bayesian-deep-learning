@@ -1,0 +1,4 @@
+seeds: [42, 43]
+alphas: [0.05, 0.1, 0.2]
+n_samples: 3000
+epochs: 35
